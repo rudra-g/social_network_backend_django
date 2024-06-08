@@ -9,14 +9,30 @@ This project is a simple social network built with Django and Django Rest Framew
 - Viewing pending and sent friend requests
 - Paginated user search
 
-## Requirements
+## Docker set up
 
-- Python 3.8+
-- Django 3.2+
-- Django Rest Framework 3.12+
-- SQLite (default database)
+### 1. Go to the location where you want your code to be
 
-## Setup
+### 2. Clone the Repository
+```bash
+git clone https://github.com/rudra-g/social_network_backend_django.git
+cd my-django-project
+```
+### 3. docker compose
+```bash
+docker-compose build
+```
+### 4. starting
+```bash
+docker-compose up
+```
+### 5. ending
+```bash
+docker-compose down
+```
+
+
+## Normal Setup
 
 ### 1. Go to the location where you want your code to be
 
