@@ -9,7 +9,7 @@ This project is a simple social network built with Django and Django Rest Framew
 - Viewing pending and sent friend requests
 - Paginated user search
 
-##Brief API descriptions
+## Brief API descriptions
 
 1. **Register**
    - Endpoint: `users/register/`
