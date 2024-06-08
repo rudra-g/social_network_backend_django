@@ -82,7 +82,7 @@ pytz==2023.3
 PyYAML==6.0.1
 ray==2.6.3
 referencing==0.30.2
-requests==2.31.0
+requests==2.32.2
 requests-unixsocket==0.2.0
 rpds-py==0.10.2
 SecretStorage==2.3.1
